@@ -1,24 +1,24 @@
-vCard - Personal Portfolio
+Mustafa Mete
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
+alt = Mustafa Mete
+Mustafa Mete
+Robotics Researcher
 
 Show Contacts
 
 Email
-richard@example.com
+a.mustafamete@gmail.com
 
 Phone
-+1 (213) 352-2795
++00 000 00 00
 
 Birthday
-June 23, 1982
+June 23, 1994
 
 Location
-Sacramento, California, USA
+Lausanne, Switzerland
 
 # navbar
 
@@ -32,10 +32,7 @@ Contact
 
 About me
 
-I'm Creative Director and UI/UX Designer from Sydney, Australia, working in web development and print media. I enjoy turning complex problems into simple, beautiful and intuitive designs.
-
-My job is to build your website so that it is functional and user-friendly but at the same time attractive. Moreover, I add personal touch to your product and make sure that is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way. I created web design for many famous brand companies.
-
+I'm a Robotician. I enjoy solving problems and building cool stuff.
 
 ## service
 
